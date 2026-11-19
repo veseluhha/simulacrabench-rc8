@@ -1,0 +1,7 @@
+The TABPFN-3.5 Model is licensed by Prior Labs GmbH under the TABPFN-3.5 Non-Commercial License.
+Copyright © Prior Labs GmbH 2026.
+THE SERVICES ARE PROVIDED FREE OF CHARGE: COMPANY SHALL NOT BE LIABLE FOR DAMAGES RESULTING FROM SLIGHT NEGLIGENCE. LIABILITY FOR GROSS NEGLIGENCE AND INTENTIONAL MISCONDUCT REMAINS UNAFFECTED.
+
+weights/tabpfn-v3.5-fast-20260909.safetensors is the unmodified TABPFN-3.5 Model file from huggingface.co/Prior-Labs/tabpfn_3_5 at revision 06bf2ba35c80a92a3b9abb436b99cf49e7a0365e. A copy of the TABPFN-3.5 Non-Commercial License is in weights/LICENSE. Any rights to use the TABPFN-3.5 Model are granted directly by Prior Labs GmbH to each recipient under that License.
+
+weights/tabicl-classifier-v2-20260212.ckpt is the unmodified TabICLv2 checkpoint from huggingface.co/jingang/TabICL at revision 4dcd344ece2c00be9e831fdd35bed57b5ad83e19, Copyright (c) 2025, Soda team @ Inria, BSD 3-Clause License, see weights/LICENSE-TabICL.
